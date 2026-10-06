@@ -1,6 +1,5 @@
 # Cherubel Kefyalew
 
-Analytics engineer by day: Power BI semantic models, Microsoft Fabric, Snowflake, Azure Data Factory, and Python automation at an insurance company in Bethesda, MD. Builder of complete systems by night. B.S. Information Technology (magna cum laude) and M.S. Applied IT in progress, George Mason University.
 
 ## Selected work
 
@@ -16,7 +15,3 @@ More is on the way: a 426-test quantitative research engine for prediction marke
 ## How I work
 
 Python and TypeScript end to end: ingestion, model, API, UI, tests, docs. I run multi-agent AI-assisted development with written protocols and test gates, and I distrust my own results until a placebo test or a reconciliation says otherwise.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/cherubel) · cherubelkefyalew@gmail.com
