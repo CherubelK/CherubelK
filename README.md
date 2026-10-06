@@ -1,5 +1,3 @@
-# Cherubel Kefyalew
-
 ## Technical skills
 
 **Languages.** Python, SQL, TypeScript/JavaScript, DAX and M, Dart, Solidity, R, Java, Bash/PowerShell
